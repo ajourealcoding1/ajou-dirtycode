@@ -8,7 +8,8 @@ public class DirtySample {
     }
 
 
-    public void updateQuality() {
+    public void UpdateQuality_And_SellIn() {
+
 
         for (int nth_count = 0; nth_count < items.length; nth_count++) {
 
